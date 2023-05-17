@@ -1,4 +1,4 @@
-# 📙 Veri Bilimi Kütüphaneleri
+# 📙 Veri Bilimi Kütüphaneleri Kitap
 
 
 ### Bu proje, "Veri Bilimi Kütüphaneleri" adlı kitaba yaptığım katkıları içermektedir. Kitaba veri bilimi alanında kullanılan kritik öneme sahip kütüphaneleri eklemek ve bu kütüphanelerin kullanımını anlatmak için çaba sarfettim.
